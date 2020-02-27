@@ -1,0 +1,11 @@
+D:\Users\dbridges2\source\repos\4_5_LABDANABRIDGES\4_5_LABDANABRIDGES\bin\Debug\netcoreapp3.1\4_5_LABDANABRIDGES.exe
+D:\Users\dbridges2\source\repos\4_5_LABDANABRIDGES\4_5_LABDANABRIDGES\bin\Debug\netcoreapp3.1\4_5_LABDANABRIDGES.deps.json
+D:\Users\dbridges2\source\repos\4_5_LABDANABRIDGES\4_5_LABDANABRIDGES\bin\Debug\netcoreapp3.1\4_5_LABDANABRIDGES.runtimeconfig.json
+D:\Users\dbridges2\source\repos\4_5_LABDANABRIDGES\4_5_LABDANABRIDGES\bin\Debug\netcoreapp3.1\4_5_LABDANABRIDGES.runtimeconfig.dev.json
+D:\Users\dbridges2\source\repos\4_5_LABDANABRIDGES\4_5_LABDANABRIDGES\bin\Debug\netcoreapp3.1\4_5_LABDANABRIDGES.dll
+D:\Users\dbridges2\source\repos\4_5_LABDANABRIDGES\4_5_LABDANABRIDGES\bin\Debug\netcoreapp3.1\4_5_LABDANABRIDGES.pdb
+D:\Users\dbridges2\source\repos\4_5_LABDANABRIDGES\4_5_LABDANABRIDGES\obj\Debug\netcoreapp3.1\4_5_LABDANABRIDGES.csprojAssemblyReference.cache
+D:\Users\dbridges2\source\repos\4_5_LABDANABRIDGES\4_5_LABDANABRIDGES\obj\Debug\netcoreapp3.1\4_5_LABDANABRIDGES.AssemblyInfoInputs.cache
+D:\Users\dbridges2\source\repos\4_5_LABDANABRIDGES\4_5_LABDANABRIDGES\obj\Debug\netcoreapp3.1\4_5_LABDANABRIDGES.AssemblyInfo.cs
+D:\Users\dbridges2\source\repos\4_5_LABDANABRIDGES\4_5_LABDANABRIDGES\obj\Debug\netcoreapp3.1\4_5_LABDANABRIDGES.dll
+D:\Users\dbridges2\source\repos\4_5_LABDANABRIDGES\4_5_LABDANABRIDGES\obj\Debug\netcoreapp3.1\4_5_LABDANABRIDGES.pdb
